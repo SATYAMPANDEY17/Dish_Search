@@ -1,0 +1,12 @@
+1.install python
+2.install django
+3.install pandas
+4.extract zip and save on local system
+5.open folder in terminal/or any ide with terminal
+6.run cammand
+	1.python manage.py makemigrations
+	2.python manage.py migrate
+7.create superuser by cammand 
+	3.python manage.py createsuperuser
+8. run project by cammand
+	4.python manage.py runserver
